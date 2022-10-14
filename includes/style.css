@@ -90,6 +90,11 @@ section {
   color: #56a79a;
 }
 
+.text-logo {
+
+  color: #56a79a !important;
+}
+
 .intro {
   margin-bottom: 50px;
 }
